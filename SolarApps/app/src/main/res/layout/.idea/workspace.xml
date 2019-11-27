@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f232f17-3f1a-43ff-b7a2-90f7c9cf469e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java/com/solar/apps/BleActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/solar/apps/utility/ImageUrlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/com/solar/apps/utility/PrefManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/bg.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/bg2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/bg3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/bg31.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/buttonstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cardbackground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cc.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cccc.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cerclebackgroundgreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cerclebackgroundpink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cerclebackgroundpurple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cerclebackgroundyello.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/circle_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/cvcv.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/edittextstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/edittextstyle2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/gradient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/gradienteditext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_android_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_attach_file_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_attach_money_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_control_point_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_lightbulb_outline_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/ic_wifi_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icon_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icon_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icons_bluetooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icons_dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icons_solar_panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/icons_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/lountain.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/qsdsd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/simplebackground.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/test.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawable/unn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../androidTest/java/com/mr_gunjan/ecommerce/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../androidTest/java/com/mr_gunjan/ecommerce/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/BananaNendran.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Cucumber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/FieldBeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Fruits.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Kale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Lemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Lychee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Rambutan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/Watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/agathi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/amla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/apples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/apricot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/araikeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ashgourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/avacado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/baby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/babycorn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananaSevalai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananaflower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananagreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananahills.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananakarpuravalli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananapoovan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananarasthali.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananastem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bananayelakki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bangaloretomato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/beetroot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bitterGourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bottlegourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/brinjal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/broadbeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/broccoli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/cabbage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/capsicumgreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/carrot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/category.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/cauliflower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/chilli(bajji).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/chilli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/chowchow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/clusterbeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/coconut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/colocasia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/corianderleaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/curryleaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/custeredapple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/dragonfruit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/drumstick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/drumstickleaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/elephantyam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/fig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ganthgobhi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/garlichill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/garlicnattu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ginger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/grapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/greenbeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/greengrape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/greenpeas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/guava.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ivygourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/kiwi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ladysfinger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/leafy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/lettuce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/longbeans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/manathakkali.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mango.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mangoteen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mintleaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mosambi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mulaikeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/mushroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/muskmelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/nagapalam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/onion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/palak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/papaya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/parupukeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pasalaikeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/perandai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pineapple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pomagranate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/potato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pulachakeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/pumpkincut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/radish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/rawMango.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/rawbanana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/redcapsicum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ridgegourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/sapota.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/sirukeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/smallonion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/snakegourd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/springonion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/straberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/sukkankeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/sweetcorn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/sweetpotato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/tapiocalroot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/thandukeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/tomato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/turkyberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/vallaraikeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/vegetabless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/vendhayakeerai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/yellowcapsicum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/AboutUs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/AddressAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/AnotherActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/BadgeDrawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/CartActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/CheckoutActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/HomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/LoginRegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/MyFirebaseInstanceIDService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/MyFirebaseMessagingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/OrderDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/OrderHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/PaymentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/ProductsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/SearchActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/AddressAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/CartListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/HomeCategoryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/MyCartAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/OrderHistoryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/OrderHistoryDetailsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/ProductCounterAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/adapter/SubcategoriesAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/app/AppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/app/CustomRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/cache/FileCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/cache/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/cache/ImagePipelineConfigFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/database/DatabaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/database/MyCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/ByteArrayDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/GMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/GMailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/JSSEProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/Mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/SMTPAuthenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/mail/SendMailTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/AddressPojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/MasterCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/OrderDateComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/OrderHistoryPojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/OrderHistoryProductsDetailsPojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/ProductPojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/pojo/SubCategoryPojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/products/Categorys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/products/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/startup/FrescoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/startup/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/startup/WelcomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/utility/ImageUrlUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/utility/PrefManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/utils/BitmapLruCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/vegfreshbox/ecommerce/utils/VegUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/demo/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/demo/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/demo/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/demo/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/error/FirebaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/error/JacksonUtilityException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/model/FirebaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/service/Firebase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/net/thegreshams/firebase4j/util/JacksonUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anim/animation_fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_about_us.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activity_about_us.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_address_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_cart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activity_cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_checkout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_login_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_order_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_order_history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_payment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_products.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_view_pager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activity_welcome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addaddress.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address_table_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_bar_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app_bar_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/badge_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart_table_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content_cart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/content_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content_login_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/horizantal_sub_category.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav_header_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nav_header_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_update_count_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_table_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table_item_order_history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/table_item_order_history_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_slide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_slide3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_slide4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menu/activity_home_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menu/activity_home_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values-night/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values-notnight/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/java/com/mr_gunjan/ecommerce/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/java/com/mr_gunjan/ecommerce/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../library/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../library/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../library/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../library/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../library/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../library/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../library/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../library/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1038" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/WiFiDemoApp-master/WiFiDemoApp-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f232f17-3f1a-43ff-b7a2-90f7c9cf469e" name="Default Changelist" comment="" />
+      <created>1574529394664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574529394664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3296131" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
