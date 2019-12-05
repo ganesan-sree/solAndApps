@@ -30,6 +30,9 @@ import com.github.mikephil.charting.charts.BarChart;
 import com.solar.apps.charts.AnotherBarActivity;
 import com.solar.apps.charts.BarMonthChartActivity;
 
+import com.solar.apps.charts.LineChartActivity2;
+
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -71,7 +74,7 @@ public class DashBoardActivity extends AppCompatActivity {
         btnPieChart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent I = new Intent(DashBoardActivity.this, AnotherBarActivity.class);
+                Intent I = new Intent(DashBoardActivity.this, LineChartActivity2.class);
                 startActivity(I);
             }
         });

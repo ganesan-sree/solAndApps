@@ -79,6 +79,12 @@
 
 
         <activity
+            android:name=".charts.LineChartActivity2"
+            android:label="@string/app_name" />
+
+
+
+        <activity
             android:name=".AnotherActivity"
             android:label="@string/app_name" />
 
